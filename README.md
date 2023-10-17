@@ -1,16 +1,39 @@
-### Hi there 👋
+<h2> Full Stack Developer</h2>
+🌍  I'm based in Rio Grande do Sul <br>
+✉️  You can contact me at achten.rafael16@gmail.com <br>
+🧠  I'm learning mobile development with react native <br>
+🚀  I'm currently working on Personal Projects - Open to Work<br>
 
-<!--
-**Faelkk/Faelkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h2>My skills</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=nestjs" />
+   <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=react" />
+     <img src="https://skillicons.dev/icons?i=docker" />
+  <img src="https://skillicons.dev/icons?i=ts" />
+  <img src="https://skillicons.dev/icons?i=js" />  
+  <img src="https://skillicons.dev/icons?i=express" />
+  <img src="https://skillicons.dev/icons?i=prisma" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=styledcomponents" />
+  <img src="https://skillicons.dev/icons?i=vite" />
+  <img src="https://skillicons.dev/icons?i=vercel" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=figma" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
+</p> 
+
+
+<h2>Github Stats </h2> 
+
+![Faelkk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Faelkk&theme=shadow_blue&show_icons=true)
+
+
+
+
+
