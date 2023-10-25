@@ -1,7 +1,7 @@
 <h2> Full Stack Developer</h2>
 🌍  I'm based in Rio Grande do Sul <br>
 ✉️  You can contact me at achten.rafael16@gmail.com <br>
-🧠  I'm learning react native and nestjs <br>
+🧠  I'm currently learning mobile development with React Native, and I'm also diving into studying NestJS. <br>
 🚀  I'm currently working on Personal Projects - Open to Work<br>
 
 
