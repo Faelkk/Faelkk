@@ -5,7 +5,7 @@
 🌍 Moro no Rio Grande do Sul - Brasil <br>
 ✉️ Contato: <a href="mailto:achten.rafael16@gmail.com">achten.rafael16@gmail.com</a> <br>
 🧠 Atualmente desenvolvendo aplicações full-stack com React, Angular, NestJS e ASP.NET <br>
-💡 Apaixonado por clean code e arquiteturas escaláveis
+💡 Apaixonado por Open Source, clean code e arquiteturas escaláveis
 </p>
 
 ---
