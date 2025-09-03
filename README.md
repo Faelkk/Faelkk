@@ -28,16 +28,18 @@
 <h3>⚙️ Back-end & Tools</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=cs" />
   <img src="https://skillicons.dev/icons?i=nestjs" />
   <img src="https://skillicons.dev/icons?i=dotnet" />
+      <img src="https://skillicons.dev/icons?i=aws" />
+      <img src="https://skillicons.dev/icons?i=azure" />
   <img src="https://skillicons.dev/icons?i=express" />
   <img src="https://skillicons.dev/icons?i=prisma" />
   <img src="https://skillicons.dev/icons?i=mysql" />
   <img src="https://skillicons.dev/icons?i=mongodb" />
     <img src="https://skillicons.dev/icons?i=git" />
-  <img src="https://skillicons.dev/icons?i=vercel" />    
-  <img src="https://skillicons.dev/icons?i=vscode" />
   <img src="https://skillicons.dev/icons?i=docker" />
+
 </p>
 
 
