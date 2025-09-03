@@ -34,7 +34,6 @@
   <img src="https://skillicons.dev/icons?i=prisma" />
   <img src="https://skillicons.dev/icons?i=mysql" />
   <img src="https://skillicons.dev/icons?i=mongodb" />
-  <img src="https://skillicons.dev/icons?i=docker" />
 </p>
 
 <h3>🔧 Ferramentas</h3>
@@ -42,6 +41,7 @@
   <img src="https://skillicons.dev/icons?i=git" />
   <img src="https://skillicons.dev/icons?i=vercel" />    
   <img src="https://skillicons.dev/icons?i=vscode" />
+  <img src="https://skillicons.dev/icons?i=docker" />
 </p>
 
 ---
