@@ -33,7 +33,7 @@
 
 ![Faelkk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Faelkk&theme=shadow_blue&show_icons=true)
 
-<h3 align="center">💬 Let's Connect!</h3>
+<h3>💬 Let's Connect!</h3>
 <p align="center">
   <a href="mailto:achten.rafael16@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://www.linkedin.com/in/rafael-achtenberg"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
