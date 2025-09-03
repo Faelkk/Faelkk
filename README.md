@@ -25,7 +25,7 @@
   <img src="https://skillicons.dev/icons?i=figma" />
 </p>
 
-<h3>⚙️ Back-end</h3>
+<h3>⚙️ Back-end & Tools</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs" />
   <img src="https://skillicons.dev/icons?i=nestjs" />
@@ -34,17 +34,13 @@
   <img src="https://skillicons.dev/icons?i=prisma" />
   <img src="https://skillicons.dev/icons?i=mysql" />
   <img src="https://skillicons.dev/icons?i=mongodb" />
-</p>
-
-<h3>🔧 Ferramentas</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git" />
+    <img src="https://skillicons.dev/icons?i=git" />
   <img src="https://skillicons.dev/icons?i=vercel" />    
   <img src="https://skillicons.dev/icons?i=vscode" />
   <img src="https://skillicons.dev/icons?i=docker" />
 </p>
 
----
+
 
 <h2>📊 GitHub Stats</h2>
 
