@@ -1,8 +1,14 @@
-<h2> Full Stack Developer</h2>
-🌍  I'm based in Rio Grande do Sul <br>
-✉️  You can contact me at achten.rafael16@gmail.com <br>
-🧠  I'm currently learning mobile development with React Native, and I'm also diving into studying NestJS. <br>
-🚀  I'm currently working on Personal Projects - Open to Work<br>
+<h1 align="">👋 Olá, eu sou o Rafael Achtenberg</h1>
+<h3 align="">Software Engineering | Desenvolvedor Full - Stack🚀</h3>
+
+<p align="">
+🌍 Moro no Rio Grande do Sul - Brasil <br>
+✉️ Contato: <a href="mailto:achten.rafael16@gmail.com">achten.rafael16@gmail.com</a> <br>
+🧠 Atualmente estudando <strong>React Native</strong> e me aprofundando em <strong>NestJS</strong> <br>
+💡 Trabalhando em projetos pessoais e aberto a novas oportunidades
+</p>
+
+---
 
 
 <h2>My skills</h2>
