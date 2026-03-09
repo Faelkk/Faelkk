@@ -46,9 +46,9 @@
 
 
 
-<h2>📊 GitHub Stats</h2>
+<!-- <h2>📊 GitHub Stats</h2>
 
-![Faelkk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Faelkk&theme=shadow_blue&show_icons=true)
+![Faelkk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Faelkk&theme=shadow_blue&show_icons=true) -->
 
 ---
 
