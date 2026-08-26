@@ -6,7 +6,9 @@
 
 ## About
 
-Full-Stack Software Engineer experienced with TypeScript, React, Next.js, Node.js, C#, .NET, and PostgreSQL. I build applications across front end and back end, turning ideas into simple, scalable solutions focused on the user experience.
+**Full-Stack Software Engineer** experienced with TypeScript, React, Next.js, Node.js, C#, .NET, and PostgreSQL.
+
+I build applications across front end and back end, turning ideas into simple, scalable solutions focused on the user experience.
 
 <p align="left">
   <a href="https://achtenberg-rafael.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=vercel&logoColor=white"></a>

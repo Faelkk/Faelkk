@@ -6,7 +6,9 @@
 
 ## Sobre
 
-Desenvolvedor Full Stack com experiência em TypeScript, React, Next.js, Node.js, C#, .NET e PostgreSQL. Desenvolvo aplicações do front-end ao back-end, transformando ideias em soluções simples, escaláveis e focadas na experiência do usuário.
+**Desenvolvedor Full Stack** com experiência em TypeScript, React, Next.js, Node.js, C#, .NET e PostgreSQL.
+
+Desenvolvo aplicações do front-end ao back-end, transformando ideias em soluções simples, escaláveis e focadas na experiência do usuário.
 
 <p align="left">
   <a href="https://achtenberg-rafael.vercel.app/"><img alt="Portfólio" src="https://img.shields.io/badge/Portfólio-181717?style=for-the-badge&logo=vercel&logoColor=white"></a>
