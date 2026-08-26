@@ -14,17 +14,9 @@ Full-Stack Software Engineer experienced with TypeScript, React, Next.js, Node.j
 
 ## Technologies
 
-**Front-end**
+<img width="100%" src="./assets/readme/stack-frontend.en.svg" alt="Front end: TypeScript, JavaScript, React, Next.js, Angular, Tailwind CSS, HTML, and CSS">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,tailwind,html,css&theme=dark" alt="TypeScript, JavaScript, React, Next.js, Angular, Tailwind CSS, HTML, and CSS">
-</p>
-
-**Back-end, data, and infrastructure**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,cs,dotnet,postgres,mongodb,redis,docker,aws,rabbitmq,kafka,git,githubactions&theme=dark&perline=13" alt="Node.js, NestJS, C#, .NET, PostgreSQL, MongoDB, Redis, Docker, AWS, RabbitMQ, Kafka, Git, and GitHub Actions">
-</p>
+<img width="100%" src="./assets/readme/stack-backend.en.svg" alt="Back end, data, and infrastructure: Node.js, NestJS, C#, .NET, PostgreSQL, MongoDB, Redis, Docker, AWS, RabbitMQ, Kafka, Git, and GitHub Actions">
 
 <picture>
   <img width="100%" src="./assets/readme/profile-footer.svg" alt="Rafael Achtenberg, Full-Stack Software Engineer">
