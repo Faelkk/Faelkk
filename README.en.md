@@ -6,8 +6,6 @@
 
 Full-Stack Software Engineer experienced with TypeScript, React, Next.js, Node.js, C#, .NET, and PostgreSQL. I build applications across front end and back end, turning ideas into simple, scalable solutions focused on the user experience.
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=850&color=58A6FF&background=00000000&vCenter=true&repeat=true&width=760&height=34&lines=TypeScript+%2B+React+%2B+Next.js;Node.js+%2B+C%23+%2B+.NET;PostgreSQL+%2B+Docker+%2B+AWS" alt="TypeScript, React, Next.js, Node.js, C#, .NET, PostgreSQL, Docker, and AWS" /></a>
-
 <p align="left">
   <a href="https://achtenberg-rafael.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=vercel&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/achtenrafael/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -27,3 +25,7 @@ Full-Stack Software Engineer experienced with TypeScript, React, Next.js, Node.j
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,cs,dotnet,postgres,mongodb,redis,docker,aws,rabbitmq,kafka,git,githubactions&theme=dark&perline=13" alt="Node.js, NestJS, C#, .NET, PostgreSQL, MongoDB, Redis, Docker, AWS, RabbitMQ, Kafka, Git, and GitHub Actions">
 </p>
+
+<picture>
+  <img width="100%" src="./assets/readme/profile-footer.svg" alt="Rafael Achtenberg, Full-Stack Software Engineer">
+</picture>
