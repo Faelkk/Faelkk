@@ -1,30 +1,41 @@
-# Rafael Achtenberg
+<picture>
+  <img width="100%" src="./assets/readme/profile-hero.svg" alt="Rafael Achtenberg, Desenvolvedor de Software Full Stack">
+</picture>
 
-**Full-Stack Software Engineer**
+<p align="right"><a href="./README.en.md">Read in English</a></p>
 
-I build and evolve web products from interface and API design to data, delivery, and production follow-up.
+Desenvolvedor Full Stack com experiência em TypeScript, React, Next.js, Node.js, C#, .NET e PostgreSQL. Trabalho na construção e evolução de aplicações, transformando ideias e necessidades do produto em funcionalidades que fazem sentido na prática, do front-end ao back-end, com APIs, bancos de dados, testes e deploy.
 
-[Português](./README.pt-BR.md) · [Portfolio](https://achtenberg-rafael.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/achtenrafael/) · [Email](mailto:achtenberg.rafa@gmail.com)
+<p align="center">
+  <a href="https://achtenberg-rafael.vercel.app/"><img alt="Portfólio" src="https://img.shields.io/badge/Portfólio-181717?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/achtenrafael/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:achtenberg.rafa@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/E--mail-24292F?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
-## About
+## Tecnologias
 
-I am a software engineer based in Porto Alegre, Brazil. In my day-to-day work, I move between product needs, front-end development, APIs, business rules, PostgreSQL performance, automated testing, asynchronous workflows, CI/CD, and production troubleshooting.
+**Front-end**
 
-I work mainly with TypeScript, React, Next.js, Node.js, PostgreSQL, and Prisma, and I also build back-end services with C# and .NET. I value straightforward solutions, readable code, reliable delivery, and understanding the problem before choosing the technology.
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,tailwind,html,css&theme=dark" alt="TypeScript, JavaScript, React, Next.js, Angular, Tailwind CSS, HTML e CSS">
+</p>
 
-## Selected work
+**Back-end, dados e infraestrutura**
 
-- **[Library Management](https://github.com/Faelkk/management-library-api)** — A .NET and Angular system designed around a real school library serving more than 800 students and staff. Includes role-based access, loan workflows, tests, SQL Server, and Docker.
-- **[Authentication & Notification Services](https://github.com/Faelkk/micro-service-auth)** — Independent .NET services for authentication and email notifications, connected through RabbitMQ and containerized with Docker.
-- **[DebtTrack](https://github.com/Faelkk/DebtTracker)** — A serverless debt-management API built with .NET, DynamoDB, AWS Lambda, and API Gateway.
-- **[Barber Platform API](https://github.com/Faelkk/barber-api)** — A NestJS API covering scheduling, services, teams, business units, authentication, and image storage.
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,cs,dotnet,postgres,mongodb,redis,docker,aws,rabbitmq,kafka,git,githubactions&theme=dark&perline=13" alt="Node.js, NestJS, C#, .NET, PostgreSQL, MongoDB, Redis, Docker, AWS, RabbitMQ, Kafka, Git e GitHub Actions">
+</p>
 
-## Core stack
+## Atividade no GitHub
 
-**Front-end:** TypeScript, JavaScript, React, Next.js, Angular, Tailwind CSS, HTML, CSS
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Faelkk&theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Faelkk&theme=github">
+  <img width="100%" alt="Resumo da atividade de Rafael no GitHub" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Faelkk&theme=github">
+</picture>
 
-**Back-end:** Node.js, NestJS, C#, .NET, REST APIs, PostgreSQL, SQL Server, MongoDB, Redis, Prisma, Entity Framework, Docker, RabbitMQ, AWS, GitHub Actions, CI/CD, automated testing, and observability
-
-## Contact
-
-Porto Alegre, Brazil · [achtenberg.rafa@gmail.com](mailto:achtenberg.rafa@gmail.com)
+<p align="center">
+  <a href="https://achtenberg-rafael.vercel.app/">Portfólio</a> ·
+  <a href="https://www.linkedin.com/in/achtenrafael/">LinkedIn</a> ·
+  <a href="mailto:achtenberg.rafa@gmail.com">E-mail</a>
+</p>
