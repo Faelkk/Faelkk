@@ -2,11 +2,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="160" viewBox="0 0 800 160">
   <style>
     
-    .signoff { animation: signoffIn 12s ease-in-out infinite; }
-    .soc { animation: socfade 12s ease-in-out infinite; }
-    .sf0 { animation-delay: 0.60s }
-    .sf1 { animation-delay: 0.68s }
-    .sf2 { animation-delay: 0.76s }
+    .signoff { animation: signoffIn 6s ease-in-out infinite; }
+    .soc { animation: socfade 6s ease-in-out infinite; }
+    .sf0 { animation-delay: 0.20s }
+    .sf1 { animation-delay: 0.28s }
+    .sf2 { animation-delay: 0.36s }
 
     @keyframes signoffIn {
       0%, 8% { opacity: 0; transform: translateY(4px); }
@@ -19,9 +19,9 @@
       100% { opacity: 0; }
     }
   
-    .heart { animation: heartbeat 12s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
-    .wave-front { animation: drift-front 12s linear infinite; }
-    .wave-back { animation: drift-back 12s linear infinite; }
+    .heart { animation: heartbeat 6s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+    .wave-front { animation: drift-front 6s linear infinite; }
+    .wave-back { animation: drift-back 6s linear infinite; }
 
     @keyframes heartbeat {
       0%, 40% { transform: scale(1); }
