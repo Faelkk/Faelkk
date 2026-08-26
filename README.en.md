@@ -1,10 +1,10 @@
+<p align="right">
+  <a href="./README.md">PT-BR</a>&nbsp;&nbsp;&nbsp;<strong>EN</strong>
+</p>
+
 <picture>
   <img width="100%" src="./assets/readme/profile-hero.svg" alt="Rafael Achtenberg, Full-Stack Software Engineer">
 </picture>
-
-<p align="right">
-  <a href="./README.md"><img alt="Ler em português" src="https://img.shields.io/badge/Versão_em_português-21262D?style=flat-square&logo=googletranslate&logoColor=58A6FF"></a>
-</p>
 
 ## About
 
