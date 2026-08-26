@@ -2,7 +2,9 @@
   <img width="100%" src="./assets/readme/profile-hero.svg" alt="Rafael Achtenberg, Desenvolvedor de Software Full Stack">
 </picture>
 
-<p align="right"><a href="./README.en.md">Read in English</a></p>
+<p align="right">
+  <a href="./README.en.md"><img alt="Read in English" src="https://img.shields.io/badge/English_version-21262D?style=flat-square&logo=googletranslate&logoColor=58A6FF"></a>
+</p>
 
 ## Sobre
 
