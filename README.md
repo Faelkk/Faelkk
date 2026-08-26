@@ -25,17 +25,3 @@ Desenvolvedor Full Stack com experiência em TypeScript, React, Next.js, Node.js
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,cs,dotnet,postgres,mongodb,redis,docker,aws,rabbitmq,kafka,git,githubactions&theme=dark&perline=13" alt="Node.js, NestJS, C#, .NET, PostgreSQL, MongoDB, Redis, Docker, AWS, RabbitMQ, Kafka, Git e GitHub Actions">
 </p>
-
-## Atividade no GitHub
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Faelkk&theme=github_dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Faelkk&theme=github">
-  <img width="100%" alt="Resumo da atividade de Rafael no GitHub" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Faelkk&theme=github">
-</picture>
-
-<p align="center">
-  <a href="https://achtenberg-rafael.vercel.app/">Portfólio</a> ·
-  <a href="https://www.linkedin.com/in/achtenrafael/">LinkedIn</a> ·
-  <a href="mailto:achtenberg.rafa@gmail.com">E-mail</a>
-</p>
