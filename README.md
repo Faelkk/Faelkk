@@ -8,7 +8,11 @@
 
 Desenvolvedor Full Stack com experiência em TypeScript, React, Next.js, Node.js, C#, .NET e PostgreSQL. Desenvolvo aplicações do front-end ao back-end, transformando ideias em soluções simples, escaláveis e focadas na experiência do usuário.
 
-[Portfólio](https://achtenberg-rafael.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/achtenrafael/) · [E-mail](mailto:achtenberg.rafa@gmail.com)
+<p align="left">
+  <a href="https://achtenberg-rafael.vercel.app/"><img alt="Portfólio" src="https://img.shields.io/badge/Portfólio-21262D?style=flat-square&logo=vercel&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/achtenrafael/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0969DA?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:achtenberg.rafa@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/E--mail-21262D?style=flat-square&logo=gmail&logoColor=white"></a>
+</p>
 
 ## Tecnologias
 

@@ -8,7 +8,11 @@
 
 Full-Stack Software Engineer experienced with TypeScript, React, Next.js, Node.js, C#, .NET, and PostgreSQL. I build applications across front end and back end, turning ideas into simple, scalable solutions focused on the user experience.
 
-[Portfolio](https://achtenberg-rafael.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/achtenrafael/) · [Email](mailto:achtenberg.rafa@gmail.com)
+<p align="left">
+  <a href="https://achtenberg-rafael.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-21262D?style=flat-square&logo=vercel&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/achtenrafael/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0969DA?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:achtenberg.rafa@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-21262D?style=flat-square&logo=gmail&logoColor=white"></a>
+</p>
 
 ## Technologies
 
