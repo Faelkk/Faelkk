@@ -4,7 +4,7 @@
 
 <p align="right"><a href="./README.md">Ler em português</a></p>
 
-Full-Stack Software Engineer experienced with TypeScript, React, Next.js, Node.js, C#, .NET, and PostgreSQL. I work on building and evolving applications, turning ideas and product needs into practical features across front end, back end, APIs, databases, testing, and deployment.
+Full-Stack Software Engineer experienced with TypeScript, React, Next.js, Node.js, C#, .NET, and PostgreSQL. I build applications across front end and back end, turning ideas into simple, scalable solutions focused on the user experience.
 
 <p align="center">
   <a href="https://achtenberg-rafael.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=vercel&logoColor=white"></a>
