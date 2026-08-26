@@ -1,60 +1,30 @@
-<h1 align="">👋 Olá, eu sou o Rafael Achtenberg</h1>
-<h3 align="">Software Engineering | Desenvolvedor Full-Stack 🚀</h3>
+# Rafael Achtenberg
 
-<p align="">
-🌍 Moro no Rio Grande do Sul - Brasil <br>
-✉️ Contato: <a href="mailto:achten.rafael16@gmail.com">achten.rafael16@gmail.com</a> <br>
-🧠 Atualmente desenvolvendo aplicações full-stack com React, Angular, NestJS e ASP.NET <br>
-💡 Apaixonado pela cultura Open Source, clean code e arquiteturas escaláveis
-</p>
+**Full-Stack Software Engineer**
 
----
+I build and evolve web products from interface and API design to data, delivery, and production follow-up.
 
-<h2>🛠️ Minhas Skills</h2>
+[Português](./README.pt-BR.md) · [Portfolio](https://achtenberg-rafael.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/achtenrafael/) · [Email](mailto:achtenberg.rafa@gmail.com)
 
-<h3>⚡ Front-end</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react" />
-    <img src="https://skillicons.dev/icons?i=nextjs" />
-  <img src="https://skillicons.dev/icons?i=angular" />
-  <img src="https://skillicons.dev/icons?i=html" />
-  <img src="https://skillicons.dev/icons?i=css" />
-  <img src="https://skillicons.dev/icons?i=styledcomponents" />
-    <img src="https://skillicons.dev/icons?i=tailwind" />
-  <img src="https://skillicons.dev/icons?i=ts" />
-  <img src="https://skillicons.dev/icons?i=js" />
-  <img src="https://skillicons.dev/icons?i=vite" />
-  <img src="https://skillicons.dev/icons?i=figma" />
-</p>
+## About
 
-<h3>⚙️ Back-end & Tools</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs" />
-  <img src="https://skillicons.dev/icons?i=cs" />
-  <img src="https://skillicons.dev/icons?i=nestjs" />
-  <img src="https://skillicons.dev/icons?i=dotnet" />
-   <img src="https://skillicons.dev/icons?i=aws" />
-  <img src="https://skillicons.dev/icons?i=azure" />
-  <img src="https://skillicons.dev/icons?i=express" />
-  <img src="https://skillicons.dev/icons?i=prisma" />
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-    <img src="https://skillicons.dev/icons?i=git" />
-  <img src="https://skillicons.dev/icons?i=docker" />
+I am a software engineer based in Porto Alegre, Brazil. In my day-to-day work, I move between product needs, front-end development, APIs, business rules, PostgreSQL performance, automated testing, asynchronous workflows, CI/CD, and production troubleshooting.
 
-</p>
+I work mainly with TypeScript, React, Next.js, Node.js, PostgreSQL, and Prisma, and I also build back-end services with C# and .NET. I value straightforward solutions, readable code, reliable delivery, and understanding the problem before choosing the technology.
 
+## Selected work
 
+- **[Library Management](https://github.com/Faelkk/management-library-api)** — A .NET and Angular system designed around a real school library serving more than 800 students and staff. Includes role-based access, loan workflows, tests, SQL Server, and Docker.
+- **[Authentication & Notification Services](https://github.com/Faelkk/micro-service-auth)** — Independent .NET services for authentication and email notifications, connected through RabbitMQ and containerized with Docker.
+- **[DebtTrack](https://github.com/Faelkk/DebtTracker)** — A serverless debt-management API built with .NET, DynamoDB, AWS Lambda, and API Gateway.
+- **[Barber Platform API](https://github.com/Faelkk/barber-api)** — A NestJS API covering scheduling, services, teams, business units, authentication, and image storage.
 
-<!-- <h2>📊 GitHub Stats</h2>
+## Core stack
 
-![Faelkk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Faelkk&theme=shadow_blue&show_icons=true) -->
+**Front-end:** TypeScript, JavaScript, React, Next.js, Angular, Tailwind CSS, HTML, CSS
 
----
+**Back-end:** Node.js, NestJS, C#, .NET, REST APIs, PostgreSQL, SQL Server, MongoDB, Redis, Prisma, Entity Framework, Docker, RabbitMQ, AWS, GitHub Actions, CI/CD, automated testing, and observability
 
-<h3>💬 Vamos nos conectar!</h3>
-<p align="left">
-  <a href="mailto:achten.rafael16@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://www.linkedin.com/in/rafael-achtenberg"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://github.com/Faelkk"><img src="https://skillicons.dev/icons?i=github" /></a>
-</p>
+## Contact
+
+Porto Alegre, Brazil · [achtenberg.rafa@gmail.com](mailto:achtenberg.rafa@gmail.com)
