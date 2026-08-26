@@ -27,7 +27,3 @@ Desenvolvedor Full Stack com experiência em TypeScript, React, Next.js, Node.js
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,cs,dotnet,postgres,mongodb,redis,docker,aws,rabbitmq,kafka,git,githubactions&theme=dark&perline=13" alt="Node.js, NestJS, C#, .NET, PostgreSQL, MongoDB, Redis, Docker, AWS, RabbitMQ, Kafka, Git e GitHub Actions">
 </p>
-
-<picture>
-  <img width="100%" src="./assets/readme/profile-footer.svg" alt="Rafael Achtenberg, Full-Stack Software Engineer">
-</picture>
